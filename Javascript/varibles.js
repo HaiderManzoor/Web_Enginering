@@ -1,17 +1,17 @@
-// let setName = "Haider";
-// console.log(setName);
+let setName = "Haider";
+console.log(setName);
 
-// let year = 2002;
+let year = 2002;
 
-// let age = 23;
+let age = 23;
 
-// console.log("Name : ",setName,"Age : ",age);
+console.log("Name : ",setName,"Age : ",age);
 
-// let hens = 4
-// let roosters = 5
+let hens = 4
+let roosters = 5
 
-// var total = hens + roosters
-// console.log(total)
+var total = hens + roosters
+console.log(total)
 
 let score = 0
 console.log(score)
