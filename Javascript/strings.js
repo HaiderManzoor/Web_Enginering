@@ -47,3 +47,6 @@ console.log(string_n.indexOf("@"))
 console.log(string_n.slice(5))
 
 console.log(string_n.replace("haider","areeb"))
+
+let str11 = "Apple, Banana, Kiwi";
+let part = str.substring(7, 13);
